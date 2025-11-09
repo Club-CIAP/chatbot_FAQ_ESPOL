@@ -9,7 +9,7 @@ This project is a template for building a complete academic virtual assistant us
 
 ## How It Works
 
-Architecture and Workflow ⚙️
+## Architecture and Workflow ⚙️
 
 n8n: Orchestration of 3 workflows (chatbot, scraping worker, announcer).
 
