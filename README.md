@@ -69,7 +69,3 @@ URL of the academic calendar to be scraped.
 
 Applicants to the CIAP Polytechnic Artificial Intelligence Club
 <img width="994" height="248" alt="Logo_CIAP (Tortuga y letras) 2" src="https://github.com/user-attachments/assets/3cc8c7d2-f1ac-4a31-9407-87263e2d8557" />
-
-- Mentor: Jaren Pazmiño
-
-Applicants to the CIAP Polytechnic Artificial Intelligence Club
